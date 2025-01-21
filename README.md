@@ -1,6 +1,7 @@
 # Turkey-News-Sentiment-Analysis
 This project integrates a pipeline for sentiment analysis on news that are targetted on Turkey</br>
 The pipeline consists of 5 sub-tasks:</br>
+
 1.Data Gathering</br>
 2.Translation of the Data</br>
 3.Training and Testing of Sentiment Analysis Model</br>
