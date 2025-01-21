@@ -1,0 +1,5 @@
+# Set text files to use LF line endings
+* text=auto
+*.sh text eol=lf
+*.csv text eol=lf
+*.ipynb text eol=lf
