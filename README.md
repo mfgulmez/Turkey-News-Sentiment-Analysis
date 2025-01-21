@@ -24,7 +24,7 @@ Some Models  are trained with Zero-Shot Learning
 ![image](https://github.com/user-attachments/assets/d463e4f8-8fe8-4d6e-834c-ddc0fb9d84cd)
 
 ### Word Cloud on Sentiments:
-![image](https://github.com/user-attachments/assets/0806dcd7-68a4-4def-b433-08989abe86f2)
+![image](https://github.com/user-attachments/assets/382edfd3-b015-4867-ac1e-8d59b062a010)
 
 ### Performance Metrics on Bart(Zero-Shot):
 ![image](https://github.com/user-attachments/assets/d54b93e9-9b93-4c2d-93b6-d9d0f5caf9bc)
