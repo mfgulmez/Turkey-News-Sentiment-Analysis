@@ -1,9 +1,9 @@
 # Turkey-News-Sentiment-Analysis
-This project integrates a pipeline for sentiment analysis on news that are targetted on Turkey
+This project integrates a pipeline for sentiment analysis on news that are targetted on Turkey</br>
 The pipeline consists of 5 sub-tasks:</br>
-1.Data Gathering
-2.Translation of the Data
-3.Training and Testing of Sentiment Analysis Model
+1.Data Gathering</br>
+2.Translation of the Data</br>
+3.Training and Testing of Sentiment Analysis Model</br>
 
 ## Data Gathering
 Approximately 2000 news from 4 foreign sources (The New York Times, Aljazeera, The Guardian and BBC) are gathered using web scrapping.
