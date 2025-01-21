@@ -18,7 +18,20 @@ Every news from the news dataset are standardized to contain at most 512 tokens 
 News are translated using The Helsinki model.
 
 ## Training and Testing
-3 Models (Logistic Regression, Linear SVC and Random Forest) are trained with Zero-Shot Learning
+Some Models  are trained with Zero-Shot Learning
 
-
+### Metrics of Performance on some of models:
 ![image](https://github.com/user-attachments/assets/d463e4f8-8fe8-4d6e-834c-ddc0fb9d84cd)
+
+### Word Cloud on Sentiments:
+![image](https://github.com/user-attachments/assets/0806dcd7-68a4-4def-b433-08989abe86f2)
+
+### Performance Metrics on Bart(Zero-Shot):
+![image](https://github.com/user-attachments/assets/d54b93e9-9b93-4c2d-93b6-d9d0f5caf9bc)
+
+### Word Cloud of Sentiments With Bart:
+![image](https://github.com/user-attachments/assets/d5b51452-ad80-4f52-a47b-b8205ec515b7)
+
+
+
+
