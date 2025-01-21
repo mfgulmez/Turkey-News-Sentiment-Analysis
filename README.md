@@ -18,4 +18,6 @@ News are translated using The Helsinki model.
 
 # Training and Testing
 3 Models (Logistic Regression, Linear SVC and Random Forest) are trained with Zero-Shot Learning
+
+
 ![image](https://github.com/user-attachments/assets/d463e4f8-8fe8-4d6e-834c-ddc0fb9d84cd)
